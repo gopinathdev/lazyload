@@ -54,6 +54,7 @@
     NSString *artist;
     NSString *imageURLString;
     NSString *appURLString;
+    NSString *appURLString1;
 }
 
 @property (nonatomic, retain) NSString *appName;
